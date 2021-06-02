@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "thunderymod",
+  "version": "${version}",
+
+  "name": "Thunder Mod",
+  "description": "Adds Thunder items into the game",
+  "authors": [
+    "Gible147"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/thunder/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.gible147.thunder.Thunder"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
