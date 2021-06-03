@@ -12,8 +12,8 @@ import static com.gible147.thunder.registry.ModBlocks.LIGHTNING_STONE;
 
 public class ModItems {
 
-    public static final Item LIGHTNING_BOW = new Item(new Item.Settings().group(ItemGroup.COMBAT));
-    public static final BlockItem LIGHTNING_STONE  = new BlockItem(ModBlocks.LIGHTNING_STONE, new Item.Settings().group(ItemGroup.DECORATIONS));
+    public static final Item LIGHTNING_BOW = new Item(new Item.Settings().group(Thunder.ITEM_GROUP));
+    public static final BlockItem LIGHTNING_STONE  = new BlockItem(ModBlocks.LIGHTNING_STONE, new Item.Settings().group(Thunder.ITEM_GROUP));
 
 
     public static void registerItems() {
