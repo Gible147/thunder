@@ -10,7 +10,7 @@
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 3,
+              "count": 2,
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
@@ -27,7 +27,7 @@
             },
             {
               "function": "minecraft:set_count",
-              "count": 5,
+              "count": 3,
               "conditions": [
                 {
                   "condition": "minecraft:match_tool",
