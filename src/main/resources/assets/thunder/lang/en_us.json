@@ -1,5 +1,6 @@
 {
   "item.thunder.lightning_bow": "Lightning Bow",
-  "block.thunder.lightning_stone": "Thunder Stone",
+  "block.thunder.lightning_stone": "Lightning Stone",
+  "item.thunder.thunder_staff": "Thunder Staff",
   "itemGroup.thunder.general": "Thunder Mod"
 }

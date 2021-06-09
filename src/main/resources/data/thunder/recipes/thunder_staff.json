@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LDL",
+    "LSL",
+    " S "
+  ],
+  "key": {
+    "L": {
+      "tag": "thunder:lightning_stone"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  }
+  },
+  "result": {
+    "item": "thunder:thunder_staff",
+    "count": 1
+  }
+}
