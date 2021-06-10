@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LBL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "thunder:lightning_stone"
+    },
+
+    "B": {
+      "item": "minecraft:bow"
+    }
+  }
+  },
+  "result": {
+    "bowItem": "thunder:lightning_bow",
+    "count": 1
+  }
+}
