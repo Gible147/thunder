@@ -1,22 +1,36 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "LLL",
-    "LBL",
-    "LLL"
-  ],
-  "key": {
-    "L": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "thunder:lightning_stone"
     },
-
-    "B": {
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
       "item": "minecraft:bow"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "thunder:lightning_stone"
     }
-  }
-  },
+  ],
   "result": {
-    "bowItem": "thunder:lightning_bow",
+    "item": "thunder:lightning_bow",
     "count": 1
   }
 }
