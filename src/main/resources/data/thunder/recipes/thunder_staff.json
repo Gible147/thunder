@@ -1,22 +1,28 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "LDL",
-    "LSL",
-    " S "
-  ],
-  "key": {
-    "L": {
-      "tag": "thunder:lightning_stone"
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "thunder:lightning_stone"
     },
-    "D": {
+    {
       "item": "minecraft:diamond"
     },
-    "S": {
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "thunder:lightning_stone"
+    },
+    {
       "item": "minecraft:stick"
     }
-  }
-  },
+  ],
   "result": {
     "item": "thunder:thunder_staff",
     "count": 1
