@@ -5,5 +5,14 @@
   },
   "result": "thunder:lightning_stone",
   "experience": 5,
-  "cookingtime": 400
+  "cookingtime": 400,
+
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "result": "thunder:lightning_stone",
+  "experience": 7,
+  "cookingtime": 100
+
 }
