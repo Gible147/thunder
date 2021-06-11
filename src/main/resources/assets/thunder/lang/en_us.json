@@ -2,5 +2,8 @@
   "item.thunder.lightning_bow": "Lightning Bow",
   "block.thunder.lightning_stone": "Lightning Stone",
   "item.thunder.thunder_staff": "Thunder Staff",
-  "itemGroup.thunder.general": "Thunder Mod"
+  "itemGroup.thunder.general": "Thunder Mod",
+
+  "item.thunder.lightning_bow.tooltip": "Strikes Lightning where the arrow lands!",
+  "item.thunder.thunder_staff.tooltip": "Strikes Lightning where you swing!"
 }
