@@ -1,12 +1,14 @@
 {
   "schemaVersion": 1,
-  "id": "thunderymod",
+  "id": "thunder",
   "version": "${version}",
 
   "name": "Thunder Mod",
   "description": "Adds Thunder items into the game",
   "authors": [
-    "Gible147"
+    "Nico",
+    "Tim",
+    "Matthew"
   ],
   "contact": {
     "homepage": "",

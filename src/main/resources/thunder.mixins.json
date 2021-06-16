@@ -4,11 +4,11 @@
   "package": "com.gible147.thunder.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "ThunderStaffMixin"
-
+    "ArrowEntityMixin",
+    "TridentItemMixin"
   ],
   "client": [
-    "ExampleMixin"
+    ""
   ],
   "injectors": {
     "defaultRequire": 1

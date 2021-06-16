@@ -7,8 +7,6 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
 
-import static com.gible147.thunder.registry.ModBlocks.LIGHTNING_STONE;
-
 public class ModItems {
 
     public static final Item LIGHTNING_BOW = new BowItem(new Item.Settings().group(Thunder.ITEM_GROUP).maxCount(1).rarity(Rarity.EPIC));
